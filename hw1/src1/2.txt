@@ -1,0 +1,24 @@
+program example2;
+{$APPTYPE CONSOLE}
+uses
+  SysUtils, Math;
+var
+  y, y1, y2, x:extended;
+  i:integer;
+begin
+  for i := 1 to 5 do
+  begin
+    x := i*5;
+    y1 := (Power(Exp(1), x) - Power(Exp(1), -x)) / 2;
+    y2 := (Power(Exp(1), x) + Power(Exp(1), -x)) / 2;
+    y := y2*y2 - y1*y1;
+    WriteLn('result: ');
+    WriteLn('x  = ', x:2:0);
+    WriteLn('y1 = ', y1:20:16);
+    WriteLn('y2 = ', y2:20:16);
+    WriteLn('y  = ', y:20:16);
+    WriteLn('d  = ', abs(y-1):20:16);
+    WriteLn('ph = ', abs(y-1):20:16);
+  end;
+  readln;
+end.      
