@@ -10,16 +10,19 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="example2"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="32" Y="10"/>
+        <CursorPos X="19" Y="2"/>
         <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
+      <Unit>
+        <Filename Value="example3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="12" Y="3"/>
+        <UsageCount Value="20"/>
+      </Unit>
     </Units>
-    <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="part1.lpr"/>
-        <Caret Line="6"/>
-      </Position>
+    <JumpHistory HistoryIndex="28">
       <Position>
         <Filename Value="part1.lpr"/>
         <Caret Line="7"/>

@@ -1,5 +1,6 @@
 program example2;
 {$APPTYPE CONSOLE}
+
 var
   eps, curr, prev :real;
 begin

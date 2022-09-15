@@ -10,7 +10,7 @@
         <MainUnitHasScaledStatement Value="False"/>
       </Flags>
       <SessionStorage Value="InProjectDir"/>
-      <Title Value="part1"/>
+      <Title Value="lab4"/>
       <UseAppBundle Value="False"/>
       <ResourceType Value="res"/>
     </General>
@@ -26,12 +26,7 @@
     </RunParams>
     <Units>
       <Unit>
-        <Filename Value="part1.lpr"/>
-        <IsPartOfProject Value="True"/>
-        <UnitName Value="example2"/>
-      </Unit>
-      <Unit>
-        <Filename Value="example3.pas"/>
+        <Filename Value="lab4.lpr"/>
         <IsPartOfProject Value="True"/>
       </Unit>
     </Units>
@@ -40,17 +35,12 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="part1"/>
+      <Filename Value="lab4"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
-    <Linking>
-      <Debugging>
-        <DebugInfoType Value="dsDwarf2Set"/>
-      </Debugging>
-    </Linking>
   </CompilerOptions>
   <Debugging>
     <Exceptions>

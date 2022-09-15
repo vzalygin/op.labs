@@ -1,5 +1,8 @@
 program example2;
 {$APPTYPE CONSOLE}
+
+uses unit1;
+
 var
   eps, curr, prev :real;
 begin
@@ -7,7 +10,7 @@ begin
   ReadLn(eps);
   curr := 2;
   prev := 3;
-  while Abs(prev-curr) > eps/10 do
+  while Abs(prev-curr) > eps do
   begin
     prev := curr;
     curr := 1 + 1/curr;

@@ -10,7 +10,7 @@
         <MainUnitHasScaledStatement Value="False"/>
       </Flags>
       <SessionStorage Value="InProjectDir"/>
-      <Title Value="part1"/>
+      <Title Value="project1"/>
       <UseAppBundle Value="False"/>
       <ResourceType Value="res"/>
     </General>
@@ -26,13 +26,9 @@
     </RunParams>
     <Units>
       <Unit>
-        <Filename Value="part1.lpr"/>
+        <Filename Value="project1.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="example2"/>
-      </Unit>
-      <Unit>
-        <Filename Value="example3.pas"/>
-        <IsPartOfProject Value="True"/>
+        <UnitName Value="lab2"/>
       </Unit>
     </Units>
   </ProjectOptions>
@@ -40,7 +36,7 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="part1"/>
+      <Filename Value="project1"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
