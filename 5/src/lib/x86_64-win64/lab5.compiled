@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="O:\Apps\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1420791944"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq -FiD:\repos\op.labs\5\src\lib\x86_64-win64 -FuD:\repos\op.labs\5\src\ -FUD:\repos\op.labs\5\src\lib\x86_64-win64\ -FED:\repos\op.labs\5\src\ -oD:\repos\op.labs\5\src\lab5.exe lab5.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
