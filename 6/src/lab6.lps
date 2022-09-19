@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="lab6.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="13" Y="16"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\apps\lazarus\fpc\3.2.2\source\rtl\inc\wstrings.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="691"/>
+        <CursorPos X="39" Y="702"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="lab6.lpr"/>
+        <Caret Line="21" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="lab6.lpr"/>
+        <Caret Line="18" Column="8"/>
+      </Position>
+      <Position>
+        <Filename Value="lab6.lpr"/>
+        <Caret Line="7" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="lab6.lpr"/>
+        <Caret Line="20" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="lab6.lpr"/>
+        <Caret Line="12" Column="25" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="lab6.lpr"/>
+        <Caret Line="13" Column="7" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="D:\apps\lazarus\fpc\3.2.2\source\rtl\inc\wstrings.inc"/>
+        <Caret Line="702" Column="39" TopLine="691"/>
+      </Position>
+      <Position>
+        <Filename Value="lab6.lpr"/>
+        <Caret Line="16" Column="16" TopLine="2"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

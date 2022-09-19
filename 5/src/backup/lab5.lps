@@ -9,12 +9,12 @@
         <Filename Value="lab5.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="8" Y="5"/>
+        <CursorPos X="13" Y="11"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="3">
+    <JumpHistory HistoryIndex="6">
       <Position>
         <Filename Value="lab5.lpr"/>
         <Caret Line="11" Column="10"/>
@@ -29,7 +29,19 @@
       </Position>
       <Position>
         <Filename Value="lab5.lpr"/>
-        <Caret Line="5" Column="38"/>
+        <Caret Line="5" Column="8"/>
+      </Position>
+      <Position>
+        <Filename Value="lab5.lpr"/>
+        <Caret Line="8" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="lab5.lpr"/>
+        <Caret Line="29" Column="6" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="lab5.lpr"/>
+        <Caret Line="26" Column="16" TopLine="10"/>
       </Position>
     </JumpHistory>
     <RunParams>
