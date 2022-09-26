@@ -1,6 +1,8 @@
 ﻿program lab7;
-uses Math;
 
+// Функция нахождения минимального элемента матрицы с проивольным размером.
+// matr - матрица, n - порядок матрицы
+// Возвращает целое число - минимальный элемент матрицы.
 function Min(const matr; n :integer) :integer;
 var min_element, i :integer;
     arr :array[byte] of integer absolute matr;
@@ -12,6 +14,19 @@ begin
   Result := min_element;
 end;
 
+// Функция получения суммы минимумов 3 матриц с произвольным размером.
+// matrix1, matrix2, matrix3 - матрицы 1, 2, 3 соответственно.
+// a, b, c - длины матриц 1, 2, 3 соответственно.
+// Возращает целое число - сумму минимумов.
+function SumOfMin(const matrix1; a :integer;
+                  const matrix2; b :integer;
+                  const matrix3; c :integer) :integer;
+begin
+  Result := Min(matrix1, a) + Min(matrix2, b) + Min(matrix3, c);
+end;
+
+// Процедура для задания матрицы с произвольным размером.
+// matr - матрица, n - размер матрицы
 procedure InputMatrix(var matr; n :integer);
 var i, j :integer;
     arr :array[byte] of integer absolute matr;
@@ -22,18 +37,13 @@ begin
   ReadLn;
 end;
 
-function SumOfMin(const matrix1; a :integer;
-                  const matrix2; b :integer;
-                  const matrix3; c :integer) :integer;
-begin
-  Result := Min(matrix1, a) + Min(matrix2, b) + Min(matrix3, c);
-end;
-
 type matrix = array[byte, byte] of integer;
+// a, b, c - матрицы 1, 2, 3 соответственно.
 var a, b, c :matrix;
+// a_l, b_l, c_l - порядки матриц 1, 2, 3 соответственно.
     a_l, b_l, c_l :integer;
 begin
-  Write('Введите порядки матриц: >');
+  Write('Введите порядки матриц:> ');
   ReadLn(a_l, b_l, c_l);
   WriteLn('Введите матрицу 1:');
   InputMatrix(a, a_l);

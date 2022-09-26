@@ -9,9 +9,9 @@
         <Filename Value="lab7.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="13"/>
-        <CursorPos X="74" Y="37"/>
-        <UsageCount Value="23"/>
+        <TopLine Value="22"/>
+        <CursorPos X="41" Y="46"/>
+        <UsageCount Value="24"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -20,58 +20,10 @@
         <UnitName Value="Util"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="7" Y="6"/>
-        <UsageCount Value="23"/>
+        <UsageCount Value="24"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="8"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="5" Column="20"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="2" Column="11"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="9" Column="28"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="8"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="35" Column="26" TopLine="4"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="8"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="9"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="10"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="9"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="10"/>
-      </Position>
-      <Position>
-        <Filename Value="lab7.lpr"/>
-        <Caret Line="9"/>
-      </Position>
       <Position>
         <Filename Value="lab7.lpr"/>
         <Caret Line="12"/>
@@ -143,6 +95,54 @@
       <Position>
         <Filename Value="lab7.lpr"/>
         <Caret Line="45" Column="77" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="53" Column="15" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="57" Column="16" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="33" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="34" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="35" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="50" Column="37" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="33" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="49" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="50" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="53" Column="34" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="48" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="15" Column="25" TopLine="8"/>
       </Position>
     </JumpHistory>
     <RunParams>
