@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="lab8.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="15" Y="16"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="23">
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="18" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="17"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="19"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="20"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="17"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="19"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="20"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="17"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="19"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="20"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="17"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="19"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="20"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="22"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="30" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="31" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="30" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="26" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="30" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="13" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="2" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="20"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="22"/>
+      </Position>
+      <Position>
+        <Filename Value="lab8.lpr"/>
+        <Caret Line="23"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
