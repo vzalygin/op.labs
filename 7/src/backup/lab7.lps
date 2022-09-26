@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="lab7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="7"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="util.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Util"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="7" Y="6"/>
+        <UsageCount Value="20"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="26">
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="13" Column="71"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="11" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="3" Column="39"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="2" Column="44"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="18" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="7" Column="27"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="11" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="17" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="7"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="8"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="9"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="10" Column="25"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="7"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="8"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="9"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="11"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="11"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="12"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="11"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="12"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="9"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="lab7.lpr"/>
+        <Caret Line="11"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
