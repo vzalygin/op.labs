@@ -9,60 +9,16 @@
         <Filename Value="lab9.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="7"/>
-        <CursorPos Y="20"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="31"/>
+        <CursorPos X="88" Y="16"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="68" TopLine="58"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="70" TopLine="58"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="71" TopLine="58"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="17" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="18" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="20" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="21" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="22" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="23" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="24" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="73" TopLine="61"/>
-      </Position>
-      <Position>
-        <Filename Value="lab9.lpr"/>
-        <Caret Line="78" Column="5" TopLine="61"/>
+        <Caret Line="24" TopLine="7"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
@@ -82,59 +38,103 @@
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="68" TopLine="61"/>
+        <Caret Line="24" TopLine="12"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="70" TopLine="61"/>
+        <Caret Line="9" Column="3"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="71" TopLine="61"/>
+        <Caret Line="11" Column="34"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="73" TopLine="61"/>
+        <Caret Line="9" Column="3"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="80" TopLine="61"/>
+        <Caret Line="53" Column="56" TopLine="32"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="81" TopLine="61"/>
+        <Caret Line="22" Column="46" TopLine="10"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="66" TopLine="61"/>
+        <Caret Line="34" Column="12" TopLine="22"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="85" TopLine="65"/>
+        <Caret Line="33" Column="17" TopLine="22"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="35" TopLine="23"/>
+        <Caret Line="48" Column="14" TopLine="31"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="36" TopLine="23"/>
+        <Caret Line="42" Column="77" TopLine="31"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="38" TopLine="23"/>
+        <Caret Line="17" Column="12"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="40" TopLine="23"/>
+        <Caret Line="13" TopLine="4"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="41" TopLine="23"/>
+        <Caret Line="14" TopLine="4"/>
       </Position>
       <Position>
         <Filename Value="lab9.lpr"/>
-        <Caret Line="42" TopLine="23"/>
+        <Caret Line="13" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="14" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="16" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="17" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="13" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="12" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="19" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="12" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="19" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="65" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="66" Column="24" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="lab9.lpr"/>
+        <Caret Line="10" Column="31"/>
       </Position>
     </JumpHistory>
     <RunParams>
@@ -142,29 +142,4 @@
       <Modes ActiveMode=""/>
     </RunParams>
   </ProjectSession>
-  <Debugging>
-    <BreakPoints>
-      <Item>
-        <Kind Value="bpkSource"/>
-        <WatchScope Value="wpsLocal"/>
-        <WatchKind Value="wpkWrite"/>
-        <Source Value="lab9.lpr"/>
-        <Line Value="44"/>
-      </Item>
-      <Item>
-        <Kind Value="bpkSource"/>
-        <WatchScope Value="wpsLocal"/>
-        <WatchKind Value="wpkWrite"/>
-        <Source Value="lab9.lpr"/>
-        <Line Value="73"/>
-      </Item>
-      <Item>
-        <Kind Value="bpkSource"/>
-        <WatchScope Value="wpsLocal"/>
-        <WatchKind Value="wpkWrite"/>
-        <Source Value="lab9.lpr"/>
-        <Line Value="20"/>
-      </Item>
-    </BreakPoints>
-  </Debugging>
 </CONFIG>
