@@ -14,7 +14,6 @@ implementation
 
     if abs(f(x)) < eps then
       Result := x
-
     else begin
       if f(x) > 0 then
         Result := Kor(f, a, x)
