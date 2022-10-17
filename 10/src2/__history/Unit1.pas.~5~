@@ -1,0 +1,53 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TMainForm = class(TForm)
+    InfoLabel: TLabel;
+    NewRecordButton: TButton;
+    FindButton: TButton;
+    ExitButton: TButton;
+    procedure NewRecordButtonClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+  rec = record
+    last_name: string[22];
+    name: string[22];
+    phone: string[22];
+    addr: string[22];
+  end;
+
+var
+  MainForm: TMainForm;
+  f: File of rec;
+
+implementation
+
+{$R *.dfm}
+
+uses Unit2;
+
+procedure TMainForm.NewRecordButtonClick(Sender: TObject);
+var size:integer;
+begin
+   AssignFile(f,'records.dat');
+   {$I-} Reset(F); {$I+}
+   if ioresult=0 then
+     begin size := FileSize(f);
+               seek(f,size);
+     end
+   else    rewrite(f);
+   NewRecordForm.Show;
+   NewRecordForm.LastNameInput.SetFocus;
+end;
+
+
+end.

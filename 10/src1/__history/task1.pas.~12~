@@ -1,0 +1,97 @@
+unit task1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    Input: TEdit;
+    CButton: TButton;
+    EqButton: TButton;
+    DivButton: TButton;
+    MultButton: TButton;
+    PlusButton: TButton;
+    MunisButton: TButton;
+    ExitButton: TButton;
+    procedure CButtonClick(Sender: TObject);
+    procedure EqButtonClick(Sender: TObject);
+    procedure PlusButtonClick(Sender: TObject);
+    procedure MunisButtonClick(Sender: TObject);
+    procedure MultButtonClick(Sender: TObject);
+    procedure DivButtonClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+var sum: real;
+    operation: char = '@';
+
+procedure Operate;
+var s: String;
+    code: integer;
+    n: real;
+begin
+    s := Form1.Input.text;
+    Form1.Input.Clear;
+    Form1.Input.SetFocus;
+    val(s,n,code);
+      case operation of
+       '@': sum := n;
+       '+': sum := sum + n;
+       '-': sum := sum - n;
+       '*': sum := sum * n;
+       '/': sum := sum / n;
+    end;
+end;
+
+
+procedure TForm1.CButtonClick(Sender: TObject);
+begin
+    Input.Clear;
+    operation := '@';
+    Input.SetFocus;
+end;
+
+procedure TForm1.DivButtonClick(Sender: TObject);
+begin
+    operate;
+    operation := '/';
+end;
+
+procedure TForm1.EqButtonClick(Sender: TObject);
+var s: String;
+begin
+    operate;
+    str(sum:6:3, s);
+    Input.Text := s;
+    operation := '@';
+end;
+
+procedure TForm1.MultButtonClick(Sender: TObject);
+begin
+    operate;
+    operation := '*';
+end;
+
+procedure TForm1.MunisButtonClick(Sender: TObject);
+begin
+    operate;
+    operation := '-';
+end;
+
+procedure TForm1.PlusButtonClick(Sender: TObject);
+begin
+    operate;
+    operation := '+';
+end;
+
+end.

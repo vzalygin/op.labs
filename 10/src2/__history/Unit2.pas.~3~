@@ -1,0 +1,40 @@
+unit Unit2;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TNewRecordForm = class(TForm)
+    Фамилия: TLabel;
+    Имя: TLabel;
+    Телефон: TLabel;
+    Адрес: TLabel;
+    LastNameInput: TEdit;
+    WriteButton: TButton;
+    NameInput: TEdit;
+    PhoneInput: TEdit;
+    AddrInput: TEdit;
+    ExitButton: TButton;
+    procedure ExitButtonClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  NewRecordForm: TNewRecordForm;
+
+implementation
+
+{$R *.dfm}
+
+procedure TNewRecordForm.ExitButtonClick(Sender: TObject);
+begin
+  Close;
+end;
+
+end.
