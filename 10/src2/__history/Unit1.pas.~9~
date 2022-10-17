@@ -28,6 +28,7 @@ type
   end;
 
 var
+  MainForm: TMainForm;
   f: File of rec;
 
 implementation
