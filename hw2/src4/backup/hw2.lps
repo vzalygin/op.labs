@@ -8,8 +8,7 @@
       <Unit>
         <Filename Value="hw2.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <CursorPos X="20" Y="20"/>
+        <CursorPos X="3" Y="13"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
@@ -17,13 +16,14 @@
         <Filename Value="korunit.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="KorUnit"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="22" Y="27"/>
+        <CursorPos X="20" Y="26"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="8">
+    <JumpHistory HistoryIndex="9">
       <Position>
         <Filename Value="korunit.pas"/>
         <Caret Line="13" Column="7"/>
@@ -59,6 +59,10 @@
       <Position>
         <Filename Value="hw2.pas"/>
         <Caret Line="25" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="hw2.pas"/>
+        <Caret Line="20" Column="20"/>
       </Position>
     </JumpHistory>
     <RunParams>
