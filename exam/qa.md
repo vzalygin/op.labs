@@ -29,7 +29,7 @@ UPD: Добавлена лицензия MIT.
 
 ## Синтаксические диаграммы
 
-[Смотреть тут]([https://github.com/pluttan/BMSTU-1/blob/master/%D0%9E%D0%9F/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BA%20%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83/examOP.pdf](https://github.com/pluttan/BMSTU-1/))
+[Смотреть тут]([https://github.com/pluttan/BMSTU-1/blob/master/%D0%9E%D0%9F/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BA%20%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83/examOP.pdf](https://github.com/pluttan/BMSTU-1/)
 
 ## 2. Представление данных в языке Pascal: константы и переменные. Классификация скалярных типов данных, их внутреннее представление, операции над ними. Примеры
 
